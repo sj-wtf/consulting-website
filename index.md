@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: MN Cloud Consulting
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Cloud, Security, DevOps, and software development consulting services
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# MN Cloud Consulting
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+The premier cloud consulting firm in Minnesota, MN Cloud Consulting provides a wide range of services.
