@@ -1,6 +1,6 @@
 ---
-title: "Mergers"
-date: 2019-02-28T15:15:34+10:00
+title: "Cloud Cost Management"
+date: 2024-05-28T00:00:00-5:00
 weight: 3
 ---
 
