@@ -1,7 +1,7 @@
 ---
-title: "Insurance"
-date: 2019-05-18T12:33:46+10:00
-weight: 7
+title: "Cloud Managed Services"
+date: 2024-05-29T00:00:01-05:00
+weight: 6
 ---
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,

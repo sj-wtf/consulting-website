@@ -1,7 +1,7 @@
 ---
-title: "Tax Preperation"
-date: 2019-04-18T12:33:46+10:00
-weight: 6
+title: "SRE and Observability Consulting"
+date: 2024-05-27T00:00:00-5:00
+weight: 8
 ---
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
