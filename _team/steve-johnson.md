@@ -1,10 +1,9 @@
 ---
-title: "Peter Van Eijk"
-date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
-linkedinurl: "https://www.linkedin.com/"
-promoted: true
+title: "Steve Johnson"
+date: 2024-05-31T00:00:00-5:00
+image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+jobtitle: "Founder"
+linkedinurl: "https://www.linkedin.com/in/stjohnson2"
 weight: 1
 ---
 
