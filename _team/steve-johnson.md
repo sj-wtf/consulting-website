@@ -7,6 +7,4 @@ linkedinurl: "https://www.linkedin.com/in/stjohnson2"
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Steve has nearly 20 years of technical expertise across many roles, ranging from Helpdesk work in his early career, to DevOps and Automation roles later, and Security Engineering roles most recently. He has experience working at the largest scale businesses in existence today, as well as brand new startups.
