@@ -1,7 +1,7 @@
 ---
 title: MN Cloud Consulting
 layout: home
-description: Cloud, Security, DevOps, and software development consulting services
+description: Cloud, Security, DevOps, and Software Development Consulting Services
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
@@ -10,4 +10,4 @@ show_call_box: true
 
 # MN Cloud Consulting
 
-The premier Cloud consulting firm in Minnesota, MN Cloud Consulting provides a wide range of services and expertise in every major cloud provider.
+As a premier cloud consulting firm, MN Cloud Consulting provides a wide range of services and expertise in every major cloud provider to help reduce costs, secure your infrastructure and applications, and build for the future.
