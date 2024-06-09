@@ -1,7 +1,7 @@
 ---
 title: "Security Auditing"
 date: 2024-05-29T00:00:00-5:00
-weight: 7
+weight: 6
 ---
 
 Do you need a 3rd party Information Technology auditor? Are you interested in getting ahead of audit findings before your official audit? MN Cloud Consulting can both prepare you for an upcoming audit and perform independent audits.

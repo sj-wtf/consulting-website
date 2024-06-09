@@ -1,7 +1,7 @@
 ---
 title: "vCISO / Fractional CISO"
 date: 2024-05-31T00:00:00-5:00
-weight: 8
+weight: 7
 ---
 
 Do you have existing IT staff and an interest in increasing security? A virtual or fractional CISO can help you set direction and a roadmap for your staff to follow to improve the security of your business.

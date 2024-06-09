@@ -1,10 +1,10 @@
 ---
-title: "SRE and Observability Consulting"
-date: 2024-05-27T00:00:00-5:00
-weight: 6
+title: "Cloud Cost Management"
+date: 2024-05-28T00:00:00-5:00
+weight: 4
 ---
 
-Are you plagued by downtime, and you don't know why? Have some bugs you just can't find? MN Cloud Consulting can illuminate the dark corners of your IT landscape.
+Cloud bills getting out of control? Want to see what's costing you so much? MN Cloud Consulting can provide solutions that show exactly where your money's going to help you reduce your cloud costs.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

@@ -1,10 +1,10 @@
 ---
-title: "Custom Software Development"
-date: 2024-05-30T00:00:00-5:00
-weight: 4
+title: "SRE and Observability Consulting"
+date: 2024-05-27T00:00:00-5:00
+weight: 5
 ---
 
-Have a business process that takes up a lot of your time? Wish you were doing something else? Why not automate it?
+Are you plagued by downtime, and you don't know why? Have some bugs you just can't find? MN Cloud Consulting can illuminate the dark corners of your IT landscape.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
