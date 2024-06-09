@@ -1,13 +1,10 @@
 ---
-title: "SRE and Observability Consulting"
-date: 2024-05-27T00:00:00-5:00
-weight: 8
+title: "Custom Software Development"
+date: 2024-05-30T00:00:00-5:00
+weight: 4
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Have a business process that takes up a lot of your time? Wish you were doing something else? Why not automate it?
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

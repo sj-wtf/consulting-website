@@ -1,19 +1,16 @@
 ---
-title: "vCISO / Fractional CISO"
-date: 2024-05-31T00:00:00-5:00
-weight: 4
+title: "Cloud Managed Services"
+date: 2024-05-29T00:00:01-05:00
+weight: 2
 ---
 
-Business advisory is the final tier of the accounting pyramid.
-<!--more-->
-
-Business advisory involves reporting on performance as well as advising on strategic plans, risk assessment, and succession plans.
+Interested in migrating your business to cloud services? Don't want to hire a dedicated IT team to do it? MN Cloud Consulting can manage your services for you!
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
+Cloud Managed Services provide you with the stability of a dedicated IT team, and the flexibility of the cloud to deliver your services with as little hassle as possible.
 
 1. According to International Financial Reporting Standards: the objective of financial reporting is:
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.

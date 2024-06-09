@@ -1,10 +1,10 @@
 ---
-title: "Custom Software Development"
-date: 2024-05-30T00:00:00-5:00
-weight: 1
+title: "DevOps Consulting"
+date: 2019-01-28T15:15:26+10:00
+weight: 3
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Do you want to increase your developer velocity? MN Cloud Consulting can help by building tools to help your developers deliver better code, faster.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

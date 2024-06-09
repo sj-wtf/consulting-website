@@ -1,13 +1,10 @@
 ---
-title: "Cloud Managed Services"
-date: 2024-05-29T00:00:01-05:00
-weight: 6
+title: "vCISO / Fractional CISO"
+date: 2024-05-31T00:00:00-5:00
+weight: 8
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Do you have existing IT staff and an interest in increasing security? A virtual or fractional CISO can help you set direction and a roadmap for your staff to follow to improve the security of your business.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

@@ -1,13 +1,10 @@
 ---
-title: "DevOps Consulting"
-date: 2019-01-28T15:15:26+10:00
-weight: 2
+title: "Security Auditing"
+date: 2024-05-29T00:00:00-5:00
+weight: 7
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet
+Do you need a 3rd party Information Technology auditor? Are you interested in getting ahead of audit findings before your official audit? MN Cloud Consulting can both prepare you for an upcoming audit and perform independent audits.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

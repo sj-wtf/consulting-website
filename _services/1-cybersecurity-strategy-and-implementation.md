@@ -1,18 +1,16 @@
 ---
-title: "Cloud Cost Management"
-date: 2024-05-28T00:00:00-5:00
-weight: 3
+title: "Cybersecurity Strategy And Execution"
+date: 2024-06-09T00:00:00-06:00
+weight: 1
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Want to improve your cybersecurity but you don't know how? MN Cloud Consulting can provide both strategic and tactical support to secure your business.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
 
-Financial accounting and financial reporting are often used as synonyms.
+Cyber attacks are on the rise, with a 72% increase in attacks from 2021 to 2023.
 
 1. According to International Financial Reporting Standards: the objective of financial reporting is:
 2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.

@@ -1,13 +1,10 @@
 ---
-title: "Security Auditing"
-date: 2024-05-29T00:00:00-5:00
-weight: 7
+title: "Cloud Cost Management"
+date: 2024-05-28T00:00:00-5:00
+weight: 5
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+Cloud bills getting out of control? Want to see what's costing you so much? MN Cloud Consulting can provide solutions that show exactly where your money's going to help you reduce your cloud costs.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 

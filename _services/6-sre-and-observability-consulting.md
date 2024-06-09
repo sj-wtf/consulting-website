@@ -1,12 +1,10 @@
 ---
-title: "Cybersecurity Strategy And Implementation"
-date: 2019-03-28T15:14:54+10:00
-weight: 5
+title: "SRE and Observability Consulting"
+date: 2024-05-27T00:00:00-5:00
+weight: 6
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Are you plagued by downtime, and you don't know why? Have some bugs you just can't find? MN Cloud Consulting can illuminate the dark corners of your IT landscape.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
