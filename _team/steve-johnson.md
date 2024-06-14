@@ -1,7 +1,7 @@
 ---
 title: "Steve Johnson"
 date: 2024-05-31T00:00:00-5:00
-image: "images/team/nonsap-visuals-kMJp7620W6U-unsplash.jpg"
+image: "images/team/steve.jpg"
 jobtitle: "Founder"
 linkedinurl: "https://www.linkedin.com/in/stjohnson2"
 weight: 1
