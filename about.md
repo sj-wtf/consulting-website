@@ -5,7 +5,7 @@ description: About
 bodyClass: page-about
 ---
 
-![Person Looking at a computer](photo-1510915228340-29c85a43dcfe.avif)
+![Person Looking at a computer](/images/photo-1510915228340-29c85a43dcfe.avif)
 
 Our mission is to provide technical expertise to our customers, and to provide them with the tools they need to focus on their primary business.
 
