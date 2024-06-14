@@ -7,4 +7,4 @@ linkedinurl: "https://www.linkedin.com/in/stjohnson2"
 weight: 1
 ---
 
-Steve has nearly 20 years of technical expertise across many roles, ranging from Helpdesk work in his early career, to DevOps and Automation roles later, and Security Engineering roles most recently. He has experience working at the largest scale businesses in existence today, as well as brand new startups.
+Steve has nearly 20 years of technical expertise across many roles, ranging from endpoint work in his early career, to DevOps and Automation roles later, and Security Engineering roles most recently. He has experience working at the largest scale businesses in existence today, as well as brand new startups.

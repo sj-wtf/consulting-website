@@ -1,5 +1,8 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem "webrick", "~> 1.7"
-gem "jekyll", "~> 4.3"
-gem "jekyll-environment-variables"
+source 'https://rubygems.org'
+
+gem 'jekyll', '~> 4.3'
+gem 'jekyll-environment-variables'
+gem 'rubocop', require: false
+gem 'webrick', '~> 1.7'
