@@ -10,4 +10,4 @@ show_call_box: true
 
 # MN Cloud Consulting
 
-As a premier cloud consulting firm, MN Cloud Consulting provides a wide range of services and expertise in every major cloud provider to help reduce costs, secure your infrastructure and applications, and build for the future.
+As the premier cloud consulting firm in the midwest, MN Cloud Consulting provides a wide range of services and expertise in every major cloud provider to help reduce costs, secure your infrastructure and applications, and build for the future.
