@@ -5,6 +5,8 @@ description: About
 bodyClass: page-about
 ---
 
+![Person Looking at a computer](photo-1510915228340-29c85a43dcfe.avif)
+
 Our mission is to provide technical expertise to our customers, and to provide them with the tools they need to focus on their primary business.
 
 A company’s first priority is to do the business they set out to do. That said, in the current threat environment, waiting to secure your IT systems can lead to disaster. We want to help businesses avoid that disaster. Together, we can design your systems to be secure by default, so you can focus on doing what your business does best.
