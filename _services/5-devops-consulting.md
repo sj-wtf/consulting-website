@@ -6,7 +6,7 @@ weight: 5
 
 MN Cloud Consulting build and introduce tools to help your developers deliver better code, faster.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+<img src="/images/illustrations/undraw_team_collaboration.svg" alt="savings drawing" width="400px" align="middle"/>
 
 DevOps is a practice designed to increase developer productivity through automation. A lot of DevOps tasks focus on "shifting left", which is an analogy based on putting tasks on a timeline. Taking tasks that previously took time toward the end of a software development release cycle, and moving them toward the beginning, in a way that doesn't place more strain on developers because of the automation involved, is what this practice promotes. The goal of doing this is to learn earlier on in the project that doing things a certain way will cause you problems later in the process. Learning about potential problems earlier in the software development process can help you respond more quickly, allowing you to deliver a high quality product and requiring less rework.
 

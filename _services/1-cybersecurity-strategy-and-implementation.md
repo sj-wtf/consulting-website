@@ -6,7 +6,7 @@ weight: 1
 
 MN Cloud Consulting can provide both strategic and tactical support to secure your business.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+<img src="/images/illustrations/undraw_security.svg" alt="security drawing" width="300px" align="middle"/>
 
 Cyber attacks are on the rise, with a 72% increase in attacks from 2021 to 2023.[^1] The global average cost of a data breach in 2023 was 4.45 million USD.[^2] As the threat landscape expands and new threats emerge, it's more important now than ever before that companies have a strategy for cybersecurity, and that they execute on it. MN Cloud Consulting can help you with both strategy and execution using our extensive experience and knowledge to identify problem areas, create a plan to remediate those problems, and to execute that plan.
 
