@@ -6,7 +6,7 @@ weight: 2
 
 MN Cloud Consulting can manage cloud services for you.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+<img src="/images/illustrations/undraw_programming.svg" alt="programming drawing" width="300px" align="middle"/>
 
 Cloud Managed Services provide you with the stability of a dedicated IT team, and the flexibility of the cloud to deliver your services with as little hassle as possible.
 
