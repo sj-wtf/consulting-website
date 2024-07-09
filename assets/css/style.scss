@@ -17,14 +17,14 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: "Playfair Display", serif, -apple-system;
+$font-family-base: "Montserrat", sans-serif;
+$font-family-heading: "Montserrat", sans-serif;
 
 // Footer
 $footer-background-color: $primary;
-$footer-text-color: $white;
+$footer-text-color: $secondary;
 $sub-footer-background-color: darken($primary, 10%);
-$sub-footer-text-color: $white;
+$sub-footer-text-color: $secondary;
 
 // Bootstrap 5.3.2
 
